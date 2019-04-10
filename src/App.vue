@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="https://mcvictormurillo.github.io/WebSiteVueJS/dist/logo.png">
+    <img src="https://mcvictormurillo.github.io/WebSiteVueJS/dist/logo.png" alt="Vue">
     <h1>APP MUSIC</h1>
     
     <select v-model="selectedCountry" >
